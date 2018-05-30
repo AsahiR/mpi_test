@@ -1,0 +1,5 @@
+/report/
+src.zip
+*.eps
+!/varying_core.eps
+!/varying_data.eps

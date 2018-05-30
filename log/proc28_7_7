@@ -1,0 +1,2 @@
+Size,Name,NX,NY,Elapsed time(sec),Speed(GFlops)
+28, ./diffusion, 128, 128, 0.001 , 5.243
